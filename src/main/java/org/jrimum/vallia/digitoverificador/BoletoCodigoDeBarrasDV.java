@@ -29,7 +29,7 @@
 
 package org.jrimum.vallia.digitoverificador;
 
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.jrimum.utilix.Exceptions;
 
 /**

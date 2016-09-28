@@ -30,8 +30,8 @@
 package org.jrimum.vallia.digitoverificador;
 
 
-import static org.apache.commons.lang.StringUtils.isNotBlank;
-import static org.apache.commons.lang.StringUtils.replaceChars;
+import static org.apache.commons.lang3.StringUtils.isNotBlank;
+import static org.apache.commons.lang3.StringUtils.replaceChars;
 import static org.jrimum.utilix.text.Strings.fillWithZeroLeft;
 
 import java.util.regex.Pattern;

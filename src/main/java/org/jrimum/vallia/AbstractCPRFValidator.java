@@ -34,7 +34,7 @@ import static org.jrimum.utilix.Objects.isNotNull;
 import java.io.Serializable;
 import java.util.regex.Pattern;
 
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.jrimum.utilix.Exceptions;
 import org.jrimum.utilix.Objects;
 import org.jrimum.vallia.digitoverificador.AbstractDigitoVerificador;

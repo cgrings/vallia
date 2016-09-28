@@ -33,7 +33,7 @@ package org.jrimum.vallia.digitoverificador;
 import static org.jrimum.vallia.digitoverificador.TipoDeModulo.MODULO10;
 import static org.jrimum.vallia.digitoverificador.TipoDeModulo.MODULO11;
 
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.jrimum.utilix.Exceptions;
 import org.jrimum.utilix.Objects;
 
